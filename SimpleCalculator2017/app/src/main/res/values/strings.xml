@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SimpleCalculator2017</string>
+    <string name="tips">被除数不能为0</string>
+</resources>

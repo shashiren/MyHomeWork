@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Gussing Game</string>
+    <string name="game_name">猜数字游戏</string>
+    <string name="tips1">请在输入框中输入一个你猜的数字</string>
+    <string name="tips2">你猜的数字</string>
+    <string name="tips3">大了,点击确定按钮重新猜</string>
+    <string name="tips4">小了,点击确定按钮重新猜</string>
+    <string name="tips5">恭喜你猜对了</string>
+</resources>

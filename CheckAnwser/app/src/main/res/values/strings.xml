@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CheckAnwser</string>
+    <string name="str">你的性别是:</string>
+    <string name="str1">多选题选择正确</string>
+    <string name="str2">多选题选择错误</string>
+    <string name="str3">请选择性别</string>
+</resources>
